@@ -1,0 +1,6 @@
+clear_on_startup:
+  enabled: false
+  worlds:
+    - world
+    - world_nether
+    - world_the_end
